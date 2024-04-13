@@ -1,0 +1,3 @@
+- Hi, I’m @ethngu
+- I’m currently learning Computer Science
+- Just messing around :)
